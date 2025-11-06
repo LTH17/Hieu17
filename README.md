@@ -38,3 +38,4 @@ completeGig(uint256 id)                            // Freelancer báo hoàn thà
 releasePayment(uint256 id)                         // Khách hàng giải phóng tiền
 refundGig(uint256 id)                              // Hoàn tiền sau 7 ngày
 getRep(address user)                               // Xem điểm uy tín
+#Tác giả_Lương Trung Hiếu 
